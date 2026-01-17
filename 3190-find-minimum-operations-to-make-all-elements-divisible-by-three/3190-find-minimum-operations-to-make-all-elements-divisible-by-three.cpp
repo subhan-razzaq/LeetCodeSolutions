@@ -2,11 +2,11 @@ class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
     int minOperations = 0;
-    for (int i = 0; i < nums.size(); i++)
+    for (int x : nums)
     {
-        if (nums[i] % 3 != 0)
+        if (x % 3 != 0)
         {
-            minOperations += 1;
+            minOperations++;
         }
     }
     return minOperations;
