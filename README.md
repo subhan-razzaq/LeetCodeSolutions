@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [2469-convert-the-temperature](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
