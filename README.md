@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [2469-convert-the-temperature](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [3110-score-of-a-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
@@ -41,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
