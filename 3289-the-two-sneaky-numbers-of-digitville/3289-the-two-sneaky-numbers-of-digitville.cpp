@@ -3,13 +3,15 @@ public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
     vector<int> seen;
     vector<int> repeated;
+    int counter = 0;
     for (int i = 0; i < nums.size(); i++) 
     {
-        if (count(seen.begin(), seen.end(), nums[i]) == 0)
+        counter = count(seen.begin(), seen.end(), nums[i]);
+        if (counter == 0)
         {
             seen.push_back(nums[i]);
         }
-        else if (count(seen.begin(), seen.end(), nums[i]) == 1)
+        else if (counter == 1)
         {
             repeated.push_back(nums[i]);
         }
