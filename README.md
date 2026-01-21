@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
