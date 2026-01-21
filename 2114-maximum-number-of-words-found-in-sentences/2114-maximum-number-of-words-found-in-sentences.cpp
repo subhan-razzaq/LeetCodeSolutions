@@ -5,14 +5,7 @@ public:
     int maxWords = 0;
     for (string sentence : sentences) 
     {
-        currentWords = 1;
-        for (char c : sentence)
-        {
-            if (c == ' ')
-            {
-                currentWords++;
-            }
-        }
+        currentWords = count(sentence.begin(), sentence.end(), ' ') + 1;
         if (currentWords > maxWords)
         {
             maxWords = currentWords;
