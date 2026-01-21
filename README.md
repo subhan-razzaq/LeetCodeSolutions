@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
