@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
+    // can be optimized to O(n) using hashing
     vector<int> seen;
     vector<int> repeated;
     int counter = 0;
