@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
