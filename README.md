@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
