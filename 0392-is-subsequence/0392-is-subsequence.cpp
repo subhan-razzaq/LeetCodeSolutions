@@ -9,10 +9,6 @@ public:
         {
             check += s[indexSubsequence];
             indexSubsequence++;
-            if (indexSubsequence == s.length())
-            {
-                break;
-            }
         }
     }
     if (check == s)
