@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
