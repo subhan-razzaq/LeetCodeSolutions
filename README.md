@@ -13,6 +13,7 @@ A collection of LeetCode questions answered
 | [0169-majority-element](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions answered
 | ------- |
 | [0035-search-insert-position](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
