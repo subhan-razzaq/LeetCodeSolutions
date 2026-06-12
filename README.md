@@ -1,5 +1,5 @@
-# LeetCodeSolutions
-A collection of LeetCode questions answered
+# LeetCode Solutions
+A collection of LeetCode questions answered in C++.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
