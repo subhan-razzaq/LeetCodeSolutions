@@ -130,6 +130,7 @@ A collection of LeetCode questions answered in C++.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -143,4 +144,5 @@ A collection of LeetCode questions answered in C++.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
