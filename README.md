@@ -30,6 +30,7 @@ A collection of LeetCode questions answered in C++.
 | ------- |
 | [0001-two-sum](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions answered in C++.
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0392-is-subsequence) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions answered in C++.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
