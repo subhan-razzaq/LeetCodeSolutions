@@ -17,6 +17,7 @@ A collection of LeetCode questions answered in C++.
 | [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions answered in C++.
 | ------- |
 | [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
