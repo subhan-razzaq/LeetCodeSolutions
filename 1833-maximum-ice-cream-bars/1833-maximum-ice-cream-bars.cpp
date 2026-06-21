@@ -23,7 +23,7 @@ public:
         int icecream = 0;
         int k = 1;
         int affordable = 0;
-        while (coins >= 0 && k <= max)
+        while (k <= max)
         {
             affordable = min(counts[k], coins / k);
             icecream += affordable;
