@@ -55,6 +55,7 @@ A collection of LeetCode questions answered in C++.
 | [0412-fizz-buzz](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions answered in C++.
 | [0344-reverse-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions answered in C++.
 | ------- |
 | [0705-design-hashset](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
