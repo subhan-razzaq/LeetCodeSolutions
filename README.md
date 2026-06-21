@@ -72,6 +72,7 @@ A collection of LeetCode questions answered in C++.
 | [0392-is-subsequence](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions answered in C++.
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
