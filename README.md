@@ -42,6 +42,7 @@ A collection of LeetCode questions answered in C++.
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions answered in C++.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
