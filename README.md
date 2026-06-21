@@ -1,5 +1,20 @@
 # LeetCode Solutions
-A collection of LeetCode questions answered in C++.
+
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![Synced with LeetHub](https://img.shields.io/badge/Synced%20with-LeetHub-4CAF50?style=flat-square)
+
+My personal archive of LeetCode problems, solved in modern C++. I'm an Electrical Engineering student working toward hardware and silicon roles, so I lean on the fundamentals that carry into embedded and systems work: clean memory handling, bit manipulation, and reasoning about time and space complexity.
+
+### Repo structure
+- One folder per problem, named `<number>-<slug>` (e.g. `0001-two-sum`)
+- Each folder holds the C++ solution plus the original problem statement
+- The topic tables below are auto-generated and grouped by data structure / technique
+
+### Elsewhere
+- **Portfolio:** [subhanrazzaq.com](https://subhanrazzaq.com/)
+- **Main projects:** [pinned on my profile](https://github.com/subhan-razzaq) — RISC-V SoC, FPGA, and embedded hardware work
+- **LeetCode:** [@Subhan_Razzaq](https://leetcode.com/u/Subhan_Razzaq/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
