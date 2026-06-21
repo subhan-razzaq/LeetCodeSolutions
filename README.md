@@ -14,6 +14,7 @@ A collection of LeetCode questions answered in C++.
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions answered in C++.
 | [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0705-design-hashset](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions answered in C++.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 ## Greedy
 |  |
@@ -163,9 +166,11 @@ A collection of LeetCode questions answered in C++.
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
