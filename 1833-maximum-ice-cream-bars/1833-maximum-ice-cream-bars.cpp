@@ -23,6 +23,7 @@ public:
         int icecream = 0;
         int k = 1;
         int affordable = 0;
+        // add up total number of icecreams
         while (k <= max)
         {
             affordable = min(counts[k], coins / k);
