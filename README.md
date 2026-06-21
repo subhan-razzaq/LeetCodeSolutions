@@ -26,6 +26,7 @@ A collection of LeetCode questions answered in C++.
 | [1929-concatenation-of-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions answered in C++.
 | [0231-power-of-two](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Backtracking
 |  |
 | ------- |
