@@ -18,6 +18,7 @@ A collection of LeetCode questions answered in C++.
 | [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions answered in C++.
 | [0169-majority-element](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions answered in C++.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/subhan-razzaq/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
